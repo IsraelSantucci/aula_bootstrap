@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando bootstrap. Repositório feito com os as tarefas do curso da "Construindo páginas para a internet com bootstrap"Digital Innovation One.
+Utilizando bootstrap. Repositório feito com as tarefas do curso de "Construindo páginas para internet com Bootstrap" da Digital Innovation One.
