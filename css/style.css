@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+body{
+	height: 100%;
+	font: 20px Arial, sans-serif;
+	
+}
+.navbar{
+	background-color:#884EA0;
+}
+
+.margin{
+	padding-top: 50px;
+}
+.foto{
+	width: 400px;
+	height: 400px;
+	box-shadow: 1px 1px 4px white;
+}
+.foto-parceiros{
+	width: 200px;
+	margin: 30px;
+}
+h3{
+	text-shadow: 1px 1px 4px black;
+	padding:30px;
+	margin: 0;
+
+}
+.sessoes{
+	color: white;
+	
+}
+.quem-somos{
+	background-color: #1ABC9C
+}
+
+.parceiros{
+	background-color: #5DADE2;
+}
+
+.servicos{
+	background-color: #48C9B0 ;
+}
+
+.foto-servicos{
+	width: 100%;
+}
+.paragrafo{
+	height: 20%;
+	text-shadow: 1px 1px 2px gray;
+	line-height: 30px;
+	padding-top: 30px;
+}
+
+.bg-footer{
+	padding: 30px;
+	background-color: #154360;
+	color: white;
+}
